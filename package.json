@@ -7,7 +7,6 @@
     "node-red-dashboard": "*",
     "node-red-contrib-azure-documentdb": "*",
     "node-red-contrib-azure-https": "*",
-	"node-red-contrib-azure-storage": "*",
     "node-red-contrib-azure-table-storage": "*",
     "node-red-contrib-azure-blob-storage": "*",
     "node-red-contrib-cognitive-services": "*",
